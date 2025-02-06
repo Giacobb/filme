@@ -88,6 +88,26 @@ body{
     text-transform: uppercase;
 }
 
+.botao-s{
+    background-color: rgb(0, 0, 0);
+    padding: 12px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    color: red;
+    border: 5px double red;
+    width: 150px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.botao-s:hover{
+    background-color: white ;
+}
+.botao-c:hover{
+    background-color: rgb(0, 0, 0) ;
+}
 
 
 
